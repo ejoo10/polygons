@@ -1,0 +1,10 @@
+torus
+250 250 0 30 125
+sphere
+250 450 0 50
+rotate
+x 30
+apply
+display
+save
+pic.png
